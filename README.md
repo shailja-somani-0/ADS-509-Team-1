@@ -63,4 +63,4 @@ The results of the model evaluations will be printed in the console and the best
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
-This example provides a comprehensive overview of the project, including the purpose, data, models used, setup instructions, usage guidelines, and contribution information. You can customize it further to match the specifics of your project.
+This example provides a comprehensive overview of the project, including the purpose, data, models used, setup instructions, usage guidelines, and contribution information. 
